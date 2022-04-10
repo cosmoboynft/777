@@ -1,0 +1,1 @@
+(new Image).src="/.well-known/ddos-guard/id/vrRDUcDZ4rMhWsIw",(new Image).src="https://check.ddos-guard.net/set/id/vrRDUcDZ4rMhWsIw";
